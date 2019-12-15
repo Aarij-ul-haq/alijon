@@ -6,5 +6,6 @@ welcome to Alijon
 ## Ability
 - Programming
 - MIS knowledge
+![My photo](/16.jpg)
 ----------------------------------------
 please contact me via **Alijon744@gmail.com**
